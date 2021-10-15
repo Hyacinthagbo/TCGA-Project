@@ -1,0 +1,1 @@
+Rscript naiveBayes_corrInput.R group_1_sample_1_Selected_train_train.txt group_2_sample_1_Selected_test_test.txt
